@@ -440,7 +440,7 @@ module.exports = content.locals || {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Applications/MAMP/htdocs/VIT-Bucket/vit-website/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /Users/designervenkat/SSD/VITSpace/vit-angular-website/src/styles.css */"./src/styles.css");
 
 
 /***/ })
